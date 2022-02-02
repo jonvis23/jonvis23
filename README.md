@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elvis
 - 👀 I’m interested in WebApp Pentesting and Cybersec
 - 🌱 I’m currently learning how to build apps and exploring into network security.
-- 📫 Reach me - Twitter @elvox23 
+- 📫 Reach me at - Twitter @elvox23 mailto- jonvis113@gmail.com 
 
 <!---
 jonvis23/jonvis23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
