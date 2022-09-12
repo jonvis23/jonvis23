@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elvis
-- 👀 I’m interested in WebApp Pentesting and Cybersec
-- 🌱 I’m currently learning how to build apps and exploring into network security.
+- 👀 I’m interested in DataScience
+- 🌱 I’m currently learning how to use Python and its packages to chun data into figures.
 - 📫 Reach me at - Twitter @elvox23 mailto- jonvis113@gmail.com 
 
 <!---
