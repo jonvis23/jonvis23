@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elvis
 - 👀 I’m a full-blown Data Science enthusiast.🤧😎
-- 🌱 I’m currently learning how to use Python and its packages to chun data into insightful figures.
+- 🌱 I’m currently learning how to use Python and its packages to turn data into insightful figures.
 - 📫 Reach me at - Twitter @elvox23 ,email- jonvis113@gmail.com 
 
 <!---
