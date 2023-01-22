@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data Sci, Electric Cars🚘, the future, space 🌌🚀**
 
-- 📫 How to reach me **jonvis113@gmail.com**
+- 📫 Reach out to me : **jonvis113@gmail.com**
 
 - ⚡ Fun fact: **I love beaches.🏖**
 
