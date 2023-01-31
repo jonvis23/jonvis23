@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/jonelvis23" target="blank"><img src="https://img.shields.io/twitter/follow/jonelvis23?logo=twitter&style=for-the-badge" alt="jonelvis23" /></a> </p>
 
-- 🌱 I’m currently learning **ML, Data Science.**
+- 🌱 I’m currently learning **MS Azure, ML, Data Science.**
 
 - 👯 I’m looking to collaborate on **Data Engineering projects 👨🏾‍💻 eg Data Visualization, Manipulation etc.**
 
