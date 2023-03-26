@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MS Azure, ML, Data Science.**
 
-- 👯 I’m looking to collaborate on **Data Engineering projects 👨🏾‍💻 eg Data Visualization, Manipulation etc.**
+- 👯 I’m looking to collaborate on **Data projects 👨🏾‍💻 i.e Data Visualization, EDA etc.**
 
 - 🤝 I’m looking for help with **Data Science**
 
