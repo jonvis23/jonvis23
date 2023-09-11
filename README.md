@@ -1,4 +1,4 @@
-<h1 align="center">Hello World 👋, I'm John Elvis</h1>
+<h1 align="center">Hello, I'm John Elvis</h1>
 <h3 align="center">A passionate Data enthusiast based in Nairobi ,Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/jonelvis23" target="blank"><img src="https://img.shields.io/twitter/follow/jonelvis23?logo=twitter&style=for-the-badge" alt="jonelvis23" /></a> </p>
