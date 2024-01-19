@@ -1,16 +1,10 @@
 <h1 align="center">Hello, I'm John Elvis</h1>
-<h3 align="center">A passionate Data enthusiast based in Nairobi ,Kenya</h3>
+<h3 align="center">A Data Analyst based in Nairobi ,Kenya</h3>
 
 <p align="left"> <a href="https://twitter.com/jonelvis23" target="blank"><img src="https://img.shields.io/twitter/follow/jonelvis23?logo=twitter&style=for-the-badge" alt="jonelvis23" /></a> </p>
 
-- 🌱 I’m currently learning **MS Azure, ML, Data Science.**
-
-- 👯 I’m looking to collaborate on **Data projects 👨🏾‍💻 i.e Data Visualization, EDA etc.**
-
-- 🤝 I’m looking for help with **Data Science**
-
-- 💬 Ask me about **Data Sci, Electric Cars🚘, the future, space 🌌🚀**
-
+- 🌱 I’m currently learning **Docker and Data Engineering**
+- 
 - 📫 Reach out to me : **jonvis113@gmail.com**
 
 
