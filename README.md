@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://twitter.com/jonelvis23" target="blank"><img src="https://img.shields.io/twitter/follow/jonelvis23?logo=twitter&style=for-the-badge" alt="jonelvis23" /></a> </p>
 
 - 🌱 I’m currently learning **Docker and Data Engineering**
-- 
 - 📫 Reach out to me : **jonvis113@gmail.com**
 
 
